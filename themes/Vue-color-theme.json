@@ -69,7 +69,7 @@
 		"tab.unfocusedActiveForeground": "#bab6c0",
 		"tab.unfocusedInactiveForeground": "#88888F",
 		"editor.background": "#151515",
-		"editor.foreground": "#FFFFFF",
+		"editor.foreground": "#BBBBCC",
 		"editorLineNumber.foreground": "#525053",
 		"editorCursor.foreground": "#FFFFFF",
 		"editor.selectionBackground": "#525053",
@@ -332,7 +332,8 @@
 				"string.regexp punctuation.definition.string.end",
 				"variable.language.arguments",
 				"variable.other.constant",
-				"keyword.operator.new"
+				"keyword.operator.new",
+				"support.constant",
 			],
 			"settings": {
 				"foreground": "#6cbadf"
@@ -360,7 +361,6 @@
 			"scope": [
 				"entity.name.tag",
 				"string.other.link.description.title",
-				"support.constant",
 				"support.variable",
 				"support.class",
 				"variable.other.class"
@@ -403,7 +403,7 @@
 				"text.find-in-files"
 			],
 			"settings": {
-				"foreground": "#FFFFFF"
+				"foreground": "#fdfdfd"
 			}
 		},
 		{
@@ -413,7 +413,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFFFFF"
+				"foreground": "#fdfdfd"
 			}
 		},
 		{
@@ -432,7 +432,7 @@
 				"punctuation.definition.entity.css"
 			],
 			"settings": {
-				"foreground": "#A8A8A8"
+				"foreground": "#BBBBCC"
 			}
 		},
 		{

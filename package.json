@@ -1,19 +1,24 @@
 {
   "name": "vuejs-theme",
   "displayName": "VueJS Theme",
-  "description": "Tema com as cores do VueJS",
-  "version": "1.0.0",
+  "description": "Hello developers, we are pleased to introduce our newest Vue theme.",
+  "version": "2.0.0",
   "engines": {
     "vscode": "^1.77.0"
   },
   "categories": [
     "Themes"
   ],
-"icon": "/VueLogo.png",
+"keywords": ["vue", "vuejs", "vue theme", "vue tema", "vue thema", "vuejs theme", "theme, VueJS Theme, Tema do vuejs, vue tema"],
+"icon": "assets/VueLogo.png",
 "repository": {
     "type": "git",
     "url": "https://github.com/Leozhr/VueJS-Theme"
   },
+"scripts": {
+  "package": "vsce package --no-yarn",
+  "publish": "vsce publish --no-yarn"
+},
   "publisher": "leonardoleal202",
   "contributes": {
     "themes": [
