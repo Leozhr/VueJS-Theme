@@ -1,0 +1,26 @@
+{
+  "name": "vuejs-theme",
+  "displayName": "VueJS Theme",
+  "description": "Tema com as cores do VueJS",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+"icon": "/VueLogo.png",
+"repository": {
+    "type": "git",
+    "url": "https://github.com/Leozhr/VueJS-Theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "VueJS Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Vue-color-theme.json"
+      }
+    ]
+  }
+}
