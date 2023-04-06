@@ -14,6 +14,7 @@
     "type": "git",
     "url": "https://github.com/Leozhr/VueJS-Theme"
   },
+  "publisher": "leonardoleal202",
   "contributes": {
     "themes": [
       {
