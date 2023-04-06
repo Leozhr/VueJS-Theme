@@ -1,16 +1,19 @@
-# vuejs-theme README
+# ••• VUE THEME •••
 
-## Working with Markdown
+🇧🇷 Apresentamos o nosso novo tema para Vue.js! Este tema foi cuidadosamente criado para ajudar a aprimorar a aparência e a experiência do usuário em seus aplicativos Vue.js. Com cores vibrantes e um design moderno, o nosso tema é a escolha perfeita para quem procura dar um toque de estilo aos seus projetos.
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+#
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+🇺🇸 Introducing our new theme for Vue.js! This theme has been carefully crafted to help enhance the look and feel of your Vue.js applications. With vibrant colors and a modern design, our theme is the perfect choice for anyone looking to add a touch of style to their projects.
+   
+<br/>
+ 
+  <div align="center">
+    <img width="100%" src="https://user-images.githubusercontent.com/117487925/230274267-c0d4d477-22fd-4898-a646-afbcd7029ea5.png" />
+  </div>
 
-## For more information
+<br/>
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+ ## 🏆 Creditos
+ 
+ <h3>Leonardo Leal @ 2023</h3>
